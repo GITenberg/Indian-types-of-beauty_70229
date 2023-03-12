@@ -1,0 +1,29 @@
+_repo: Indian-types-of-beauty_70229
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shufeldt, Robert W. (Robert Wilson)
+    aliases:
+    - Shufeldt, R. W. (Robert Wilson)
+    - Shufeldt, Robert Wilson
+    birthdate: 1850
+    deathdate: 1934
+    gutenberg_agent_id: '43756'
+    url: http://www.gutenberg.org/2009/agents/43756
+description: ''
+gutenberg_issued: '2023-03-07'
+identifiers:
+  gutenberg: '70229'
+language: en
+pgterms:marc905: 20230112184144shufeldt
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Bob Taylor, and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Indian types of beauty
+url: http://www.gutenberg.org/ebooks/70229
